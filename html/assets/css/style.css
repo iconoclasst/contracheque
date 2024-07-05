@@ -44,6 +44,7 @@ body {
     height: 50px;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 .passw {
@@ -56,6 +57,7 @@ body {
     height: 50px;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 .button {
@@ -68,4 +70,17 @@ body {
     height: 50px;
     justify-content: center;
     align-items: center;
+}
+
+.sign a{
+    padding: 2px;
+    margin: 2px;
+    position: relative;
+    top: 5rem;
+    left: 5.5rem;
+    width: 250px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
 }
